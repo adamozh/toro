@@ -3,7 +3,7 @@
 
 using namespace std;
 
-/* basic board which maps pieces to location */
+/* basic board which maps squares to pieces */
 class BasicBoard {
   private:
     vector<string> pieces;
